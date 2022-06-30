@@ -1,5 +1,5 @@
 {
-  "name": "boot511-back-social",
+  "name": "BD_RedSocial",
   "version": "1.0.0",
   "description": "Social App with Mongo+Express",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xavi-mat/boot511-back-social.git"
+    "url": "git+https://github.com/Imi21/BD_RedSocial.git"
   },
   "author": "xavimat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xavi-mat/boot511-back-social/issues"
+    "url": "https://github.com/Imi21/BD_RedSocial/issues"
   },
-  "homepage": "https://github.com/xavi-mat/boot511-back-social#readme",
+  "homepage": "https://github.com/Imi21/BD_RedSocial#readme",
   "dependencies": {
     "@faker-js/faker": "^7.1.0",
     "bcryptjs": "^2.4.3",
